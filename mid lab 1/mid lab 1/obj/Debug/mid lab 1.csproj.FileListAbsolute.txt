@@ -1,0 +1,14 @@
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\bin\Debug\mid lab 1.exe.config
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\bin\Debug\mid lab 1.exe
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\bin\Debug\mid lab 1.pdb
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\obj\Debug\mid lab 1.csproj.AssemblyReference.cache
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\obj\Debug\mid lab 1.csproj.CoreCompileInputs.cache
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\obj\Debug\mid lab 1.exe
+C:\ENTERTAINMENT\STUDY MATERIAL\STUDY MATERIAL\7TH SEMESTER\OOP (C#)\codes\PRACTICES\mid lab 1\mid lab 1\obj\Debug\mid lab 1.pdb
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\bin\Debug\mid lab 1.exe.config
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\bin\Debug\mid lab 1.exe
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\bin\Debug\mid lab 1.pdb
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\obj\Debug\mid lab 1.csproj.AssemblyReference.cache
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\obj\Debug\mid lab 1.csproj.CoreCompileInputs.cache
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\obj\Debug\mid lab 1.exe
+F:\Academic\Course\Semester 7\C#\Code\Lab Task\mid lab 1\mid lab 1\obj\Debug\mid lab 1.pdb

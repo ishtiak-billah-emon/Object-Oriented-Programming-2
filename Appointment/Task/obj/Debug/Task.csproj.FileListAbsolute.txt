@@ -1,0 +1,7 @@
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\bin\Debug\Task.exe.config
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\bin\Debug\Task.exe
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\bin\Debug\Task.pdb
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\obj\Debug\Task.exe
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\obj\Debug\Task.pdb
+F:\Academic\Course\Semester 7\C#\Code\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
